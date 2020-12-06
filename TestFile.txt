@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 =привет=
+=======
+1 2 3 = 22
+>>>>>>> parent of caa85e3... Test delete
